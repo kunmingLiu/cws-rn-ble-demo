@@ -38,6 +38,8 @@ target 'cwsRnBleDemo' do
 
   pod 'RNCAsyncStorage', :path => '../node_modules/@react-native-community/async-storage'
 
+  pod 'react-native-ble-plx', :path => '../node_modules/react-native-ble-plx'
+
   target 'cwsRnBleDemoTests' do
     inherit! :search_paths
     # Pods for testing
