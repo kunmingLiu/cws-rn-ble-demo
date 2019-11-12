@@ -1,0 +1,87 @@
+# OSX
+#
+.DS_Store
+
+# VS Code
+#
+.vscode/
+
+# Xcode
+#
+main.jsbundle
+main.jsbundle.meta
+*.dSYM.zip
+*.app.dSYM.zip
+report.xml
+auto_test.sh
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+!project.xcworkspace
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+# android bundle
+*index.android.bundle
+*index.android.bundle.meta
+android/app/src/main/res/raw/src_core_wallet_ajv_schema_*
+android/app/src/main/res/raw/node_modules_*
+android/app/src/main/res/drawable-hdpi/node_modules_*
+android/app/src/main/res/drawable-mdpi/node_modules_*
+android/app/src/main/res/drawable-xhdpi/node_modules_*
+android/app/src/main/res/drawable-xxhdpi/node_modules_*
+android/app/src/main/res/drawable-xxxhdpi/node_modules_*
+
+# node.js
+#
+node_modules/
+!node_modules/react-native/third-party/boost_1_63_0/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Gitignore.md
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+
+coverage/
+# package-lock.json
+.jshintrc
+
+# Bundle artifact
+*.jsbundle
+
+# CocoaPods
+/ios/Pods/
