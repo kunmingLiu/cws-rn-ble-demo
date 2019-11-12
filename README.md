@@ -9,6 +9,7 @@ This is a demo of how to use CoolWalletS SDK to built your own app.
 npm insatll
 ```
 ```
+react-native link react-native-randombytes
 react-native link react-native-ble-plx
 ```
 ```
