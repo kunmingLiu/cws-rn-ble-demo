@@ -12,9 +12,9 @@ npm insatll
 react-native link react-native-ble-plx
 ```
 ```
-yarn start 
+react-native run-android
 # or
-npm start
+react-native run-ios
 ````
 
 ## Notes
