@@ -17,7 +17,7 @@ npm start
 
 ## Notes
 
-In this demo, we use [`@coolwallets/transport-react-native-ble`](https://github.com/CoolBitX-Technology/coolwallet-js-sdk/tree/master/packages/transport-react-native) as the bluetooth transport.
+In this demo, we use [`@coolwallets/transport-react-native-ble`](https://github.com/CoolBitX-Technology/coolwallet-js-sdk/tree/master/packages/transport-react-native-ble) as the bluetooth transport.
 
 [`@coolwallets/wallet`](https://github.com/CoolBitX-Technology/coolwallet-js-sdk/tree/master/packages/cws-wallet) is imported to handle registration, pairing and create a seed with the card.
 
