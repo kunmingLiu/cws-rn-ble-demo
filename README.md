@@ -1,6 +1,6 @@
 # CoolWalletS RN App Demo
 
-![](https://i.imgur.com/THXHkCP.png)
+![](https://imgur.com/noMz946.png)
 
 This is a demo of how to use CoolWalletS SDK to built your own app.
 
