@@ -14,9 +14,9 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.7.0",
-    "@coolwallets/eth": "^0.1.2-beta",
+    "@coolwallets/eth": "^0.1.12",
     "@coolwallets/transport-react-native-ble": "^0.0.1-beta.4",
-    "@coolwallets/wallet": "0.0.1-beta",
+    "@coolwallets/wallet": "^0.0.14",
     "@react-native-community/async-storage": "^1.6.2",
     "@tradle/react-native-http": "^2.0.1",
     "assert": "^1.5.0",
