@@ -20,7 +20,7 @@
     "@react-native-community/async-storage": "^1.6.2",
     "@tradle/react-native-http": "^2.0.1",
     "assert": "^1.5.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bip39": "^3.0.2",
     "browserify-zlib": "^0.1.4",
     "buffer": "^4.9.2",
